@@ -1,0 +1,10 @@
+
+In line number 16 of your output:
+The output should be:
+Please enter the contact's cell phone number: 905-111-6666
+But your output is: 
+Please enter the contact’s cell phone number: 905-111-6666
+                        ^
+------------------------|
+Professor's character ASCII code: hex(27), dec(39)
+un-matched character ASCII code: hex(ffffff92), dec(-110)

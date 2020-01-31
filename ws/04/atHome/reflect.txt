@@ -1,0 +1,30 @@
+At-home Reflection
+
+1.  The array in this program must have 10 elements because 10 is the maximum number of days for this exercise. If you have less than 10 you won't be able to assign values for the extra days.
+
+2. The advantages of matching arrays is that convenient way of storing the data for each corresponding day and temperature. Also, it works well with the loop function and using the index you can allocate data to the corresponding element in the array. The disadvantage of an array is that it is fixed at the beginning of the code and cannot be modified, in this case 10 days is our maximum unless we change the code. Also, if one array requires additional elements we cannot assign one array to be more than the other without unmatching them.
+
+3.  The at home portion of this workshop was moderate difficulty because it didn't require too much logical thinking as most of the logic was completed in the prior workshops but the introduction of arrays allowed enough difficulty for us to learn. By implementing arrays we also saw the advantages of using arrays and giving us the opportunity to code more efficiently.
+
+Quiz 4 Reflection - Total marks [8/2]
+
+Question 1:
+
+I wrote 'struct Product forSale' but forgot the semi-colon.
+
+Correct answer:
+
+'struct Product forSale;'
+
+Question 2:
+
+I wrote:
+struct Product inStore = {
+              {2345, 62.87}
+}
+
+Adding extra curly brackets and forgetting semi-colon.
+
+Correct answer:
+
+struct Product inStore = {2345, 62.87};

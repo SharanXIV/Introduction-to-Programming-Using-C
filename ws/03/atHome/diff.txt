@@ -1,0 +1,10 @@
+
+In line number 21 of your output:
+The output should be:
+The highest temperature was 11, on day 3
+But your output is: 
+The highest temperature was 11.00, on day 3
+                              ^
+------------------------------|
+Professor's character ASCII code: hex(2c), dec(44)
+un-matched character ASCII code: hex(2e), dec(46)

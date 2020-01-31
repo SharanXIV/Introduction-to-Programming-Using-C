@@ -1,0 +1,5 @@
+Milestone 2 Reflection
+
+1. A function is a shorthand for calling a number of statements. This allows for less redundancies as one function can be called multiple times without the need for multiple codes. You can pass multiple arguments to a function but can only recieve one argument back. Every C program has one main function and, if needed, there are multiple other functions for various uses.
+
+2. The "helper" functions do tasks that are not related to the "contacts" module, such as getting the name, address and numbers. Instead the "helper" functions are used to set restrictions on what can be inputted by the user. Also, they are seperated for organization and readability.

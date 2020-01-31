@@ -1,0 +1,14 @@
+Workshop Reflection
+
+With this first workshop I have learned how to appropriately start up my Visual Basics 2017. I also have learned essential headings such as _CRT_SECURE_NO_WARNINGS and including standard input/output for future workshops to ensure my code compiles. Along the way I have learned how to use the print function and how to create new lines in my code. WinSCP is another excellent tool to access and manage many files on my matrix account without any errors.
+
+Quiz Reflections
+
+1. Question 3: Create a variable of double, called Salary and initialize it to 12345.67
+               I had put %d Salary = 12345.67, the correct answer is: double Salary = 12345.67;
+
+2. Question 6: Write a C statement to read an integer from keyboard into an integer variable called age.
+               I had put scanf (%i,age); the correct answer is: scanf ("%d",age);
+
+3. Question 7: What is a true value in C?
+               Correct answer: A true value in C is shown as any numeric value that is not 0.

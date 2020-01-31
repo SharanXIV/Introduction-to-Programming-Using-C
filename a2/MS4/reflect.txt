@@ -1,0 +1,5 @@
+Milestone 4 Reflection
+
+3. The 'findContactIndex' function is very useful for many other functions as well (such as search, delete, etc.) and prevents a lot of redundant code. The 'getTenDigitPhone' makes sure that the value entered is valid ensuring no errors with invalid entries. This also saves time with less redundant code. By calling the same functions the readability is easier as we know what the functions do when using nested functions.
+
+4. By completing Assignment 2 I realized that you can keep adding to your code if you have a solid base. The skeleton that was created in Milestone 1 was easily filled in by new functions and the structures created in Assignment 1 were still valid. I now think of functions as pieces that can be plugged into the main program and if there is an error you can troubleshoot easier by going to the function where the program crashes, essentially making debugging easier as well.

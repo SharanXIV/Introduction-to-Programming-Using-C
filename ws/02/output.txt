@@ -1,0 +1,14 @@
+Script started on Sat 03 Feb 2018 02:22:31 AM EST
+sshanmugaratnam2@matrix:~/ipc/ws/02> ws
+Please enter the amount to be paid: $8.68
+GST: 1.13
+Balance owing: $9.81
+Loonies required: 9, balance owing $0.81
+Quarters required: 3, balance owing $0.06
+Dimes required: 0, balance owing $0.06
+Nickels required: 1, balance owing $0.01
+Pennies required: 1, balance owing $0.00
+sshanmugaratnam2@matrix:~/ipc/ws/02> [Kexit
+exit
+
+Script done on Sat 03 Feb 2018 02:22:41 AM EST

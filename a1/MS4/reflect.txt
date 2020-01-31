@@ -1,0 +1,5 @@
+1. The assignment asked us to code a struct within a struct to help us understand nested structures and for the program it would be useful to store and categorize multiple contacts' information without redundant code.
+
+2. The most difficult part of the assignment was learning about nested structures and how to call them.
+
+3. It didn't take me too long to complete Milestone 4 after I figured out how structures and nested structures worked and how to call them. A simple typo caused me frustration but after resolving that, it was smooth.

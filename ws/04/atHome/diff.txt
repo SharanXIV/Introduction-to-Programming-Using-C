@@ -1,0 +1,10 @@
+
+In line number 36 of your output:
+The output should be:
+Goodbye!
+But your output is: 
+Goodbye!sshanmugaratnam2@matrix:~/ipc/ws/04/atHome> exit
+        ^
+--------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(73), dec(115)

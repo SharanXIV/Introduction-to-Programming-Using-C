@@ -1,0 +1,5 @@
+Milestone 2 Reflection
+
+1. A more efficient way to gather the information from the user would be to ask for the full name, full address and full required numbers instead of asking for them seperately.
+
+2. A C string is required to have a null character at the end of the string, that is why an extra character is required at the end of the array.

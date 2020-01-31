@@ -1,0 +1,31 @@
+Quiz 7 V2 Reflection
+
+Question 1
+
+I put the answer:
+
+char[12] can hold 12 character name.
+
+Correct Answer:
+
+char[12] can hold 11 character name with a null character at the end.
+
+Question 2
+
+I put the answer:
+
+strcat (carMakeModel, make);
+strcat (carMakeModel, model);
+
+Correct Answer:
+
+carMakeModel[0] = '\0';
+strcat (carMakeModel, make);
+strcat (carMakeModel, " ");
+strcat (carMakeModel, model);
+
+OR
+
+strcpy (carMakeModel, make);
+strcat (carMakeModel, " ");
+strcat (carMakeModel, model);

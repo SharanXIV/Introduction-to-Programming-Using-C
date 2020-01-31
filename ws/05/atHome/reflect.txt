@@ -1,0 +1,5 @@
+At-home Reflection
+
+1. An array of structs allows us to avoid creating multiple arrays to store information, instead we create an array of structs that follows our guidelines with different data types and it allows us to specify the amount we want.  This allows us to save time by writing less code as well. 
+
+2. We declare our declare our struct data type in the header file because the main program won't access it if it is declared after. C runs the program line-by-line so any declarions must be done before any other programs run it. 

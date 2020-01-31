@@ -1,0 +1,17 @@
+Quiz 5 Reflection
+
+Question 2
+
+I put the answer:
+
+void setToZero (int* Product.sku, double Product.price)
+	&Product.sku*=0
+	Product.price=0.0
+return 0;
+
+Correct Answer:
+
+void setToZero (struct Product* p){
+	p->sku=0;
+	p->price=0.0;
+}

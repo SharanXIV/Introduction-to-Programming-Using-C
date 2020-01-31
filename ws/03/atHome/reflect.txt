@@ -1,0 +1,17 @@
+At-home Reflection
+
+1.  There are three iteration constructs in C:
+    - while
+    - do while
+    - for
+
+2. The while loop sets the condition at the beginning of the loop, which allows the possibility of not executing the loop. The do while loop sets the condition at the end of the loop, which executes the loop once before returning to the top of the loop and checking the condition again.
+
+3. A conditional expression requires a condition and two operands using the '?' and ':' operators. The expression is shown as 'condition ? operand : operand' and the expression has two paths. If the condition is true it evaluates between '?' and ':'. If the condition is false it evaluates after the ':'.
+
+Quiz 3 Reflection
+
+Question 5:
+I wrote 'True'.
+
+The answer should be 'False' because the compiler doesn't recognize if the programmer attempts to set a string to a word or sentence bigger than its size. The compiler may still execute the file.
